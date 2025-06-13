@@ -8,6 +8,7 @@ In today's fast-paced academic environment, students often turn to music as a co
 
 As a passionate data enthusiast, I explored this question using Power BI by analyzing how different music genres impact study efficiency through factors like retention score, mood, focus level, and study habits.
 
+
 🧠 Project Overview
 
 This project titled "How Music Genres Affect Study Efficiency" dives into a dataset of 100 students. The dataset includes various fields such as:
@@ -26,6 +27,7 @@ Device Used, Background Noise, Caffeine Intake, Note-Taking Style
 
 The aim was to find meaningful insights into how these variables — especially music genre — correlate with study performance.
 
+
 🛠️ Tools Used
 
 Power BI for dashboard design and visual analytics
@@ -33,6 +35,7 @@ Power BI for dashboard design and visual analytics
 Excel for data cleaning and preprocessing
 
 Custom formatting to convert categorical values into analyzable formats (e.g., Yes/No ➝ 1/0)
+
 
 📊 Charts & Visuals Used
 
@@ -54,6 +57,7 @@ Tree Map: Genre distribution among students
 
 Summary Table: All genre-wise average values
 
+
 ✨ Key Insights
 
 🔍 After analyzing the visuals, here’s what I found:
@@ -68,6 +72,7 @@ Summary Table: All genre-wise average values
 
 🌟 Genre + Mood + Focus formed a strong trio influencing retention.
 
+
 ✅ Tips for Fellow Learners
 
 If you're working on your own data project in Power BI:
@@ -81,6 +86,7 @@ Use consistent color coding for categories like genre or mood.
 Add slicers for interactivity — make your report clickable and dynamic.
 
 Use cards and KPIs to summarize metrics like average retention or total participants.
+
 
 🏁 Conclusion 
 
