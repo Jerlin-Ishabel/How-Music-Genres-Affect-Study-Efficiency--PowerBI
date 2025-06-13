@@ -1,0 +1,101 @@
+Student_ID,Age,Gender,Genre,Study_Duration (min),Retention_Score (%),Study_Time,Major,Device_Used,Mood,Focus_Level (1-10),Sleep_Quality,Study_Goal,Lighting,Background_Noise,Caffeine_Intake,Session_Type,Note_Taking_Method,Internet_Stability,Break_Frequency
+S001,18,Male,Classical,56,71.13,Afternoon,Law,Tablet,Happy,5,Poor,General Study,Dim,Moderate,Low,Group,Handwritten,Unstable,Rarely
+S002,25,Female,Pop,136,85.7,Morning,Psychology,Tablet,Happy,8,Good,Exam Prep,Bright,Moderate,Low,Group,None,Stable,Sometimes
+S003,22,Other,Instrumental,80,72.61,Evening,Law,Phone,Happy,5,Good,Exam Prep,Dim,Quiet,Moderate,Solo,Digital,Unstable,Rarely
+S004,23,Male,Ambient,102,82.56,Night,Science,Phone,Happy,5,Average,Revision,Dim,Noisy,Moderate,Solo,None,Unstable,Often
+S005,19,Male,Ambient,172,94.85,Evening,Law,Tablet,Happy,6,Poor,Assignment,Natural,Noisy,None,Solo,Digital,Stable,Rarely
+S006,18,Female,Classical,165,60.87,Night,Commerce,Phone,Happy,10,Good,Exam Prep,Bright,Moderate,Low,Group,None,Unstable,Often
+S007,18,Other,Pop,56,83.97,Afternoon,Engineering,Phone,Stressed,10,Average,Revision,Bright,Noisy,Low,Solo,None,Stable,Often
+S008,24,Male,Jazz,38,63.1,Afternoon,Science,Tablet,Neutral,5,Average,Exam Prep,Natural,Noisy,Moderate,Group,Digital,Unstable,Often
+S009,25,Other,Jazz,116,74.45,Evening,Arts,Laptop,Happy,1,Poor,Assignment,Dim,Quiet,None,Solo,Digital,Stable,Often
+S010,20,Male,Lo-fi,171,97.52,Night,Psychology,Laptop,Happy,4,Poor,Exam Prep,Dim,Quiet,None,Solo,None,Stable,Rarely
+S011,22,Female,Classical,105,94.02,Morning,Engineering,Phone,Stressed,5,Poor,Revision,Natural,Quiet,None,Group,Handwritten,Stable,Often
+S012,19,Male,Instrumental,39,60.07,Afternoon,Law,Laptop,Neutral,6,Poor,Revision,Bright,Quiet,Low,Solo,Digital,Unstable,Rarely
+S013,22,Other,Lo-fi,96,84.09,Night,Psychology,Phone,Neutral,3,Good,Revision,Natural,Noisy,Low,Solo,None,Stable,Often
+S014,19,Female,Instrumental,175,96.73,Morning,Psychology,Laptop,Stressed,7,Good,Revision,Bright,Moderate,None,Group,Handwritten,Unstable,Sometimes
+S015,24,Male,Jazz,57,85.36,Afternoon,Arts,Tablet,Happy,1,Good,Assignment,Bright,Noisy,Moderate,Group,None,Unstable,Often
+S016,21,Male,Lo-fi,89,65.94,Afternoon,Science,Phone,Happy,3,Poor,General Study,Dim,Quiet,High,Solo,None,Unstable,Sometimes
+S017,21,Female,Jazz,95,72.42,Morning,Arts,Phone,Happy,4,Good,General Study,Bright,Quiet,Moderate,Solo,Handwritten,Unstable,Sometimes
+S018,21,Female,Ambient,144,60.78,Evening,Commerce,Laptop,Neutral,6,Average,Assignment,Bright,Moderate,Low,Solo,Handwritten,Unstable,Rarely
+S019,22,Female,Classical,90,79.38,Night,Law,Laptop,Stressed,8,Good,Exam Prep,Bright,Quiet,None,Group,Digital,Stable,Often
+S020,21,Male,Ambient,158,89.04,Afternoon,Engineering,Laptop,Neutral,10,Poor,Assignment,Bright,Moderate,High,Solo,Handwritten,Unstable,Often
+S021,25,Male,Jazz,120,71.28,Night,Science,Laptop,Stressed,4,Good,Assignment,Bright,Quiet,High,Group,Handwritten,Stable,Rarely
+S022,19,Male,Ambient,62,94.32,Evening,Engineering,Tablet,Neutral,9,Good,Exam Prep,Natural,Quiet,None,Group,Digital,Stable,Sometimes
+S023,25,Male,Lo-fi,179,66.75,Morning,Science,Phone,Stressed,3,Average,General Study,Natural,Moderate,Moderate,Solo,Handwritten,Unstable,Rarely
+S024,23,Other,Pop,164,62.13,Afternoon,Arts,Tablet,Neutral,9,Poor,Assignment,Natural,Moderate,Low,Solo,None,Stable,Rarely
+S025,23,Female,Ambient,58,60.5,Morning,Commerce,Laptop,Stressed,10,Poor,General Study,Bright,Moderate,None,Solo,Handwritten,Stable,Sometimes
+S026,22,Male,Ambient,140,62.07,Night,Commerce,Laptop,Stressed,1,Average,Revision,Dim,Noisy,High,Solo,None,Stable,Often
+S027,25,Male,Pop,36,64.32,Afternoon,Psychology,Laptop,Happy,6,Good,Exam Prep,Natural,Moderate,None,Solo,None,Unstable,Rarely
+S028,21,Male,Ambient,40,75.47,Afternoon,Arts,Tablet,Happy,5,Poor,General Study,Bright,Moderate,Moderate,Solo,None,Stable,Often
+S029,22,Other,Pop,58,89.49,Evening,Commerce,Laptop,Stressed,7,Poor,General Study,Bright,Noisy,None,Solo,None,Stable,Rarely
+S030,18,Female,Jazz,125,79.39,Morning,Science,Tablet,Happy,2,Good,Revision,Dim,Moderate,Moderate,Solo,None,Stable,Sometimes
+S031,23,Female,Jazz,131,65.97,Night,Science,Phone,Happy,8,Good,Assignment,Bright,Noisy,High,Group,Handwritten,Unstable,Rarely
+S032,20,Other,Pop,168,76.69,Afternoon,Law,Tablet,Stressed,10,Average,Assignment,Bright,Noisy,High,Solo,Digital,Unstable,Sometimes
+S033,25,Male,Ambient,134,76.39,Night,Commerce,Phone,Stressed,4,Poor,Revision,Natural,Noisy,Low,Solo,Digital,Unstable,Often
+S034,20,Male,Classical,152,83.25,Morning,Arts,Phone,Happy,10,Good,General Study,Bright,Noisy,None,Group,Digital,Unstable,Often
+S035,23,Other,Lo-fi,67,95.7,Evening,Arts,Phone,Neutral,8,Good,Revision,Bright,Moderate,Low,Solo,Digital,Stable,Often
+S036,20,Female,Instrumental,96,77.49,Evening,Arts,Tablet,Happy,1,Average,Revision,Bright,Noisy,None,Solo,None,Unstable,Often
+S037,22,Male,Ambient,140,86.81,Evening,Psychology,Tablet,Stressed,3,Poor,General Study,Natural,Moderate,High,Solo,None,Stable,Often
+S038,21,Female,Instrumental,57,99.6,Evening,Science,Laptop,Neutral,8,Poor,General Study,Dim,Moderate,None,Solo,Digital,Unstable,Rarely
+S039,22,Other,Ambient,53,92.44,Evening,Law,Tablet,Neutral,1,Poor,Assignment,Bright,Moderate,None,Solo,Handwritten,Stable,Often
+S040,21,Male,Ambient,64,60.76,Evening,Law,Tablet,Stressed,4,Good,Assignment,Natural,Moderate,None,Solo,None,Unstable,Often
+S041,25,Male,Pop,54,90.46,Afternoon,Science,Laptop,Happy,2,Average,Revision,Dim,Moderate,Low,Group,Digital,Stable,Sometimes
+S042,20,Female,Jazz,111,97.1,Night,Science,Tablet,Stressed,10,Poor,Assignment,Bright,Quiet,Moderate,Solo,Handwritten,Stable,Sometimes
+S043,24,Other,Lo-fi,143,94.61,Night,Arts,Laptop,Neutral,1,Good,General Study,Bright,Quiet,Moderate,Solo,None,Unstable,Often
+S044,23,Other,Pop,112,90.07,Evening,Commerce,Phone,Happy,7,Average,Revision,Dim,Moderate,None,Solo,Digital,Unstable,Sometimes
+S045,19,Male,Jazz,177,90.33,Morning,Law,Tablet,Stressed,5,Average,Exam Prep,Dim,Moderate,Moderate,Solo,Digital,Stable,Often
+S046,24,Other,Jazz,171,65.1,Evening,Engineering,Phone,Neutral,10,Poor,Exam Prep,Natural,Noisy,High,Group,None,Unstable,Sometimes
+S047,23,Male,Jazz,88,63.49,Evening,Engineering,Phone,Stressed,9,Good,Assignment,Bright,Noisy,Low,Group,Handwritten,Stable,Rarely
+S048,23,Female,Classical,65,62.13,Afternoon,Commerce,Tablet,Stressed,6,Poor,General Study,Bright,Noisy,Moderate,Solo,None,Unstable,Often
+S049,18,Male,Instrumental,69,70.52,Evening,Commerce,Phone,Stressed,4,Good,Revision,Dim,Moderate,None,Group,Digital,Unstable,Often
+S050,19,Female,Ambient,127,61.31,Night,Engineering,Laptop,Neutral,5,Good,Exam Prep,Natural,Noisy,High,Group,Handwritten,Unstable,Often
+S051,24,Male,Jazz,132,88.09,Morning,Commerce,Laptop,Happy,7,Poor,Exam Prep,Natural,Moderate,Moderate,Group,Handwritten,Stable,Rarely
+S052,18,Female,Ambient,70,61.43,Morning,Science,Phone,Happy,10,Poor,Assignment,Natural,Moderate,High,Group,Handwritten,Stable,Rarely
+S053,21,Other,Pop,32,97.37,Morning,Commerce,Phone,Stressed,1,Poor,Assignment,Dim,Quiet,Low,Solo,Digital,Stable,Sometimes
+S054,23,Other,Jazz,74,62.88,Night,Engineering,Phone,Neutral,5,Good,Revision,Natural,Moderate,Low,Solo,None,Stable,Rarely
+S055,20,Other,Classical,96,82.34,Evening,Law,Phone,Happy,2,Good,Revision,Natural,Noisy,None,Group,Digital,Unstable,Often
+S056,25,Other,Lo-fi,161,60.88,Morning,Law,Tablet,Neutral,4,Good,Assignment,Natural,Moderate,Low,Group,Handwritten,Stable,Sometimes
+S057,18,Male,Instrumental,71,75.32,Afternoon,Psychology,Phone,Stressed,10,Good,Exam Prep,Bright,Quiet,Low,Group,Digital,Unstable,Sometimes
+S058,20,Other,Lo-fi,39,95.61,Evening,Arts,Laptop,Stressed,4,Average,Revision,Bright,Noisy,Low,Solo,Handwritten,Unstable,Often
+S059,22,Other,Jazz,174,97.96,Afternoon,Arts,Laptop,Happy,8,Good,Assignment,Dim,Quiet,High,Group,Digital,Unstable,Rarely
+S060,22,Male,Instrumental,180,90.43,Afternoon,Science,Phone,Stressed,3,Poor,Exam Prep,Natural,Noisy,None,Solo,None,Stable,Often
+S061,23,Female,Jazz,62,67.22,Morning,Science,Tablet,Stressed,10,Average,General Study,Bright,Quiet,Moderate,Group,Digital,Stable,Often
+S062,25,Other,Instrumental,70,74.37,Afternoon,Arts,Laptop,Happy,6,Poor,General Study,Natural,Quiet,None,Solo,None,Stable,Often
+S063,18,Female,Ambient,65,86.94,Morning,Arts,Phone,Neutral,8,Poor,Revision,Dim,Quiet,High,Group,None,Unstable,Often
+S064,22,Other,Instrumental,91,64.91,Afternoon,Law,Tablet,Stressed,2,Good,General Study,Natural,Moderate,High,Solo,Handwritten,Stable,Often
+S065,21,Other,Pop,92,70.79,Morning,Arts,Phone,Neutral,6,Poor,General Study,Bright,Noisy,Low,Solo,None,Stable,Often
+S066,18,Other,Instrumental,52,96.9,Afternoon,Law,Phone,Stressed,2,Poor,Revision,Natural,Moderate,None,Solo,Handwritten,Stable,Often
+S067,21,Other,Instrumental,49,84.43,Evening,Arts,Laptop,Stressed,2,Poor,Revision,Bright,Noisy,None,Solo,Handwritten,Stable,Rarely
+S068,24,Male,Ambient,110,89.16,Night,Psychology,Tablet,Stressed,5,Average,Revision,Natural,Moderate,High,Group,None,Stable,Sometimes
+S069,19,Other,Classical,65,77.67,Evening,Engineering,Tablet,Happy,1,Poor,Revision,Dim,Moderate,None,Group,None,Stable,Often
+S070,22,Male,Classical,148,83.75,Evening,Engineering,Laptop,Neutral,5,Average,Revision,Bright,Noisy,Low,Solo,Digital,Stable,Often
+S071,20,Female,Jazz,136,99.8,Night,Arts,Laptop,Neutral,8,Average,Exam Prep,Dim,Noisy,High,Group,Handwritten,Stable,Sometimes
+S072,19,Female,Lo-fi,109,75.82,Night,Arts,Tablet,Happy,1,Poor,Assignment,Natural,Moderate,Moderate,Group,None,Unstable,Often
+S073,20,Other,Pop,163,73.26,Night,Commerce,Laptop,Happy,5,Average,General Study,Bright,Moderate,Low,Solo,None,Stable,Often
+S074,22,Female,Lo-fi,156,72.12,Afternoon,Psychology,Laptop,Neutral,1,Poor,General Study,Bright,Noisy,Moderate,Group,Handwritten,Unstable,Rarely
+S075,23,Other,Ambient,136,86.02,Morning,Psychology,Phone,Happy,5,Average,Revision,Bright,Moderate,High,Solo,Handwritten,Stable,Often
+S076,24,Other,Ambient,38,76.14,Night,Science,Laptop,Happy,2,Good,General Study,Natural,Noisy,Moderate,Group,None,Stable,Sometimes
+S077,21,Other,Classical,99,61.24,Evening,Arts,Phone,Neutral,10,Poor,General Study,Bright,Moderate,High,Group,Handwritten,Unstable,Rarely
+S078,19,Male,Instrumental,30,82.84,Afternoon,Science,Phone,Stressed,3,Good,Exam Prep,Bright,Quiet,None,Solo,Handwritten,Unstable,Sometimes
+S079,22,Other,Ambient,180,61.28,Evening,Science,Laptop,Stressed,5,Average,Exam Prep,Dim,Quiet,High,Group,Handwritten,Unstable,Rarely
+S080,20,Male,Ambient,56,93.93,Night,Arts,Phone,Neutral,2,Good,Assignment,Natural,Noisy,Moderate,Group,None,Unstable,Rarely
+S081,19,Female,Instrumental,56,96.59,Night,Science,Tablet,Happy,7,Good,Revision,Natural,Moderate,Low,Solo,Digital,Stable,Often
+S082,19,Female,Jazz,130,98.7,Morning,Arts,Tablet,Happy,5,Poor,Revision,Natural,Moderate,High,Solo,Handwritten,Unstable,Often
+S083,21,Female,Lo-fi,31,72.06,Night,Psychology,Phone,Stressed,10,Poor,Assignment,Natural,Noisy,High,Solo,Digital,Unstable,Sometimes
+S084,22,Male,Pop,79,76.16,Night,Psychology,Laptop,Neutral,8,Good,General Study,Bright,Quiet,High,Group,Handwritten,Stable,Sometimes
+S085,23,Female,Instrumental,121,98.52,Evening,Arts,Laptop,Neutral,5,Average,Revision,Bright,Noisy,High,Solo,Handwritten,Stable,Rarely
+S086,19,Other,Lo-fi,146,92.52,Afternoon,Commerce,Phone,Neutral,1,Average,Revision,Bright,Moderate,Moderate,Solo,Handwritten,Unstable,Rarely
+S087,20,Female,Classical,169,70.92,Night,Commerce,Phone,Happy,6,Average,Exam Prep,Bright,Quiet,High,Solo,None,Stable,Rarely
+S088,24,Other,Lo-fi,96,67.79,Night,Arts,Tablet,Happy,1,Average,General Study,Bright,Quiet,None,Solo,Handwritten,Stable,Sometimes
+S089,23,Other,Jazz,95,86.29,Morning,Science,Tablet,Stressed,4,Poor,Exam Prep,Bright,Moderate,Moderate,Group,Handwritten,Stable,Rarely
+S090,24,Female,Instrumental,149,96.28,Morning,Arts,Phone,Stressed,5,Good,Revision,Dim,Quiet,Moderate,Group,None,Stable,Rarely
+S091,22,Female,Jazz,166,88.02,Morning,Commerce,Tablet,Stressed,7,Poor,Revision,Natural,Noisy,Moderate,Group,Digital,Stable,Sometimes
+S092,22,Male,Lo-fi,165,91.6,Evening,Arts,Phone,Neutral,4,Good,General Study,Natural,Quiet,Low,Solo,None,Unstable,Rarely
+S093,18,Male,Pop,103,75.18,Morning,Psychology,Tablet,Happy,5,Average,General Study,Dim,Noisy,None,Solo,Digital,Unstable,Rarely
+S094,22,Other,Classical,122,64.4,Night,Engineering,Laptop,Stressed,1,Poor,Assignment,Dim,Moderate,High,Solo,None,Stable,Often
+S095,24,Female,Classical,32,62.99,Night,Science,Phone,Stressed,1,Poor,Exam Prep,Bright,Quiet,High,Solo,None,Stable,Sometimes
+S096,21,Other,Classical,144,80.83,Afternoon,Engineering,Tablet,Stressed,7,Poor,General Study,Bright,Quiet,Low,Group,Digital,Unstable,Rarely
+S097,22,Male,Jazz,89,93.3,Evening,Psychology,Laptop,Neutral,2,Poor,Revision,Bright,Moderate,Moderate,Solo,None,Stable,Sometimes
+S098,19,Male,Lo-fi,63,62.89,Evening,Science,Laptop,Neutral,5,Poor,Exam Prep,Bright,Noisy,High,Solo,None,Stable,Rarely
+S099,20,Male,Jazz,156,72.23,Morning,Engineering,Tablet,Neutral,7,Poor,Revision,Dim,Noisy,Moderate,Solo,Digital,Stable,Sometimes
+S100,24,Other,Ambient,81,95.42,Evening,Commerce,Tablet,Stressed,5,Poor,Assignment,Natural,Noisy,Moderate,Group,Digital,Stable,Often
